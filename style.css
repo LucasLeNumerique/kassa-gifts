@@ -28,8 +28,8 @@ body {
 /* Countdown Fade Effect */
 #countdown {
     display: none;
-    font-size: 5rem;
-    font-weight: bold;
+    font-size: 7rem;
+    font-weight: medium;
     color: rgb(189, 42, 181);
     opacity: 0; /* Start with hidden countdown */
     transition: opacity 0.25s ease-in-out; /* Smooth fade-in for countdown */
